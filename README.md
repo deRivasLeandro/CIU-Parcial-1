@@ -7,4 +7,7 @@
  :heavy_check_mark: Para mejorar la organización, extraje el código común entre el "index.js" y el "register.js" y lo coloqué en un único archivo denominado "main.js". Este archivo es llamado por el "index.html" así como también por el "register.html", y el código necesario para el correcto funcionamiento de la página principal se agregó a parte en el "index.js". <br><br>
  :heavy_check_mark: Todo el proyecto esta subdividido en carpetas :file_folder: que facilitan el acceso a los archivos de forma organizada, hay carpetas para imágenes, para código js, para html y para css (en este último hay dos archivos, debido a que hay una lista de estilos para el modo oscuro y otra para el modo común). <br><br>
  :heavy_check_mark: Para validar :mag_right: el formulario utilicé las funciones brindadas por las etiquetas en el html, con las mismas evito que el formulario se pueda enviar con algún campo vacío :no_entry: e inclusive se valida que el mail ingresado contenga efectivamente un formato correspondiente a un mail :ballot_box_with_check:
-  
+ 
+ :heavy_exclamation_mark: No sé por qué razón al pushear tengo el nombre de "Gabriel de Rivas" en la cuenta de git, usé el "git --global user.name" pero no parece funcionar, aclaro por las dudas que este trabajo es de "Leandro de Rivas" (y de paso si saben cómo se puede cambiar el nombre para que pueda pushear correctamente les agradecería la info porque hace mucho que tengo problemas similares con git y git-hub).
+ 
+  Sin más, los saludo atentamente :wave:
