@@ -313,3 +313,10 @@ form {
     transition: all 500ms;
 }
 
+form {
+    color:#000000
+}
+
+.footer {
+    background-color:#37434d;
+}
