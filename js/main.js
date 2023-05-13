@@ -39,19 +39,19 @@ const textos = document.querySelectorAll('p, h1, button, h5');
 //comportamiento de los elementos
 for(boton of twitterButton) {
     boton.addEventListener('click', () => {
-        window.location.href = 'https://twitter.com/share?text=Join+a+one-of-a-kind+interactive+panel+discussion+with+the+founders+of+Second+Life%2C+Virbela%2C+and+other+thought+leaders+in+VR%2FAR+space.+&url=https%3A%2F%2Fwww.virbela.com%2Fgo%2Fmetaverse-future-of-work%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial-share%26utm_campaign%3Dmetaverse-panel-2021-04';
+        window.location.href = 'https://twitter.com/VirbelaHQ';
     })
 }
 
 for(boton of facebookButton) {
     boton.addEventListener('click', () => {
-        window.location.href = 'https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.virbela.com%2Fgo%2Fmetaverse-future-of-work%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial-share%26utm_campaign%3Dmetaverse-panel-2021-04';
+        window.location.href = 'https://www.facebook.com/Virbela/';
     })
 }
 
 for(boton of linkedInButton) {
     boton.addEventListener('click', () => {
-        window.location.href = 'https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.virbela.com%2Fgo%2Fmetaverse-future-of-work%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial-share%26utm_campaign%3Dmetaverse-panel-2021-04';
+        window.location.href = 'https://www.linkedin.com/company/virbela/';
     })
 }
 

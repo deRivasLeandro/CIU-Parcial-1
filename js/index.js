@@ -10,9 +10,9 @@ const registerButton = document.querySelector(elements.RegisterButton);
 
 //comportamiento de los elementos
 signUpButton.addEventListener('click', () => {
-    window.location.href = 'register.html';
+    window.location.href = './html/register.html';
 })
 
 registerButton.addEventListener('click', () => {
-    window.location.href = 'register.html';
+    window.location.href = './html/register.html';
 })
