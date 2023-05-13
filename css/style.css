@@ -467,3 +467,27 @@ form {
 #header-registro {
     height: auto;
 }
+
+#dir-btn {
+    width: 130px;
+    padding-top: 14px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+#dir-btn p {
+    font-size: 14px;
+}
+
+#maps-icon {
+    position: relative;
+    bottom: 5px;
+}
+
+#virbela {
+    color: rgb(194, 10, 194);
+}
+
+.nav-link:hover {
+    color: #c8c6c6 !important;
+}
